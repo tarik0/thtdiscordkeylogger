@@ -1,0 +1,10 @@
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\bin\Release\THT Discord Keylogger Generator.exe.config
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\bin\Release\THT Discord Keylogger Generator.exe
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\bin\Release\THT Discord Keylogger Generator.pdb
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT Discord Keylogger Generator.csprojAssemblyReference.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT_Discord_Keylogger_Generator.Form1.resources
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT_Discord_Keylogger_Generator.Properties.Resources.resources
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT Discord Keylogger Generator.csproj.GenerateResource.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT Discord Keylogger Generator.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT Discord Keylogger Generator.exe
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Generator\obj\Release\THT Discord Keylogger Generator.pdb

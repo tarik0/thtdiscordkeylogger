@@ -1,0 +1,9 @@
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\obj\Release\THT Discord Keylogger Crypter.csprojAssemblyReference.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\obj\Release\THT_Discord_Keylogger_Crypter.Properties.Resources.resources
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\obj\Release\THT Discord Keylogger Crypter.csproj.GenerateResource.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\obj\Release\THT Discord Keylogger Crypter.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\bin\Release\THT Discord Keylogger Crypter.exe.config
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\bin\Release\THT Discord Keylogger Crypter.exe
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\bin\Release\THT Discord Keylogger Crypter.pdb
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\obj\Release\THT Discord Keylogger Crypter.exe
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger Crypter\obj\Release\THT Discord Keylogger Crypter.pdb

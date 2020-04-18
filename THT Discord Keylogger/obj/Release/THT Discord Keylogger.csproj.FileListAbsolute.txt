@@ -1,0 +1,7 @@
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\bin\Release\THT Discord Keylogger.exe.config
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\bin\Release\THT Discord Keylogger.exe
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\bin\Release\THT Discord Keylogger.pdb
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\obj\Release\THT Discord Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\obj\Release\THT Discord Keylogger.exe
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\obj\Release\THT Discord Keylogger.pdb
+C:\Users\tarik\source\repos\THT Discord Keylogger\THT Discord Keylogger\obj\Release\THT Discord Keylogger.csprojAssemblyReference.cache
